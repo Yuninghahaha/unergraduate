@@ -1,0 +1,51 @@
+# Project Summary: 
+
+This course puts more effort on back-end website development. I learned to create a website that can interact with the user, store the data from user, and implement the server logic. 
+
+# Project Details: 
+
+The image on the left is a banner I made for the code blog webpage. I made the image with Adobe Illustrator. The code blog allows me to try some new CSS styles and fancy designs. This banner uses some technology vector images as reference and focuses on the website design and development elements. 
+Assignments along the term required me to create a tweet duplicated webpage. There are some simple CSS styles I need to create. The user interaction and data storage became the center of this course. The specific implements include add or delete content form the webpage, search for content on the current page, and add the content to the webpage. 
+The following images are screenshots of my final project. 
+The image showing on the left is home page of Nuero Zoom, a neuroscience learning website. The website has four webpages. The home page has description of the website and quick links to other pages. 
+
+
+
+
+The image on the left is showing the bottom of the home page. We have a contact form supported by PHP functions. The users can reach out to one of us if they want to. 
+
+
+
+The image on the left shows the source code of this project on the home page. Highlight column is the navigation bar that allow user to select different pages. 
+This is the “Class” page. The purpose of this page is to recommend neuroscience online courses. The search bar is fully functional, and with the support of DOM elements, the page will automatically keep the content that contains keywords user types in the search bar.
+
+
+
+  
+
+The image on the upper left is showing the input box of discussion page. This page contains students’ discussion and enable them to share the thoughts about their classes. 
+The image on the upper right has three discussion bubbles, the bottom left discussion bubble contains the content we just filled in the input box. This function is supported by Node.js and package.json. 
+
+
+
+
+
+
+
+
+Eventually, we learned to render the content with handlebars, so the final main file of this website is in the handler files instead of .html or .php files. Following is the source code of this page.  
+
+The image on the left shows the article page that enabled user to check out the most recent journals in the neuroscience filed. The search bar on the upper left allows user to search for keywords and the page will only have article that contains the keywords stay on the page. 
+
+
+
+
+
+
+
+
+
+
+
+
+
